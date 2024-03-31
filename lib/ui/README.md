@@ -1,0 +1,2 @@
+- lib: "Shared common libraries"
+  - ui: "A react project containing the UI components"

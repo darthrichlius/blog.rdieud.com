@@ -1,0 +1,23 @@
+[
+  {
+    "username": "rdpirate1",
+    "email": "rdpirate@domain.tld",
+    "password": "Pwd.12345678",
+    "firstname": "Richard",
+    "lastname": "Dieud"
+  },
+  {
+    "username": "john_doe2",
+    "email": "john_doe@domain.tld",
+    "password": "Pwd.12345678",
+    "firstname": "John",
+    "lastname": "Doe"
+  },
+  {
+    "username": "arabica3",
+    "email": "arabica@domain.tld",
+    "password": "Pwd.12345678",
+    "firstname": "Arab",
+    "lastname": "Ica"
+  }
+]
